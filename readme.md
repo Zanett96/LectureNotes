@@ -1,7 +1,6 @@
 # Lecture Notes
 
-This repository contains some of the notes I took during my master's in computer engineering. The notes are written in Latex and are a good way to start
-approaching those topics as they gets explained in University. Currently, there are notes available regarding:
+This repository contains some of the notes I took during my master's in computer engineering. The notes are written in Latex and in english, and are supposed to be a good way to approach those topics as they gets explained in University. Currently, there are notes available regarding:
 1. *Machine Learning*;
 2. *Neural Network and Deep Learning*.
 
