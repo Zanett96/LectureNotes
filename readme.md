@@ -2,7 +2,8 @@
 
 This repository contains some of the notes I took during my master's in computer engineering. The notes are written in Latex and in english, and are supposed to be a good way to approach those topics as they gets explained in University. Currently, there are notes available regarding:
 1. *Machine Learning*;
-2. *Neural Network and Deep Learning*.
+2. *Neural Network and Deep Learning*;
+3. *Big Data Computing*.
 
 
 **Disclaimer**: those notes are made for personal use and therefore **can't** be sold to anybody or used as third party material. 
